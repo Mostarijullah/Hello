@@ -1,12 +1,2 @@
-# Hello
+# Hello - This is an example
 
-File is edited
-
-2nd update for tagging and branching
-
-3rd update for merged code
-Updating at nine
-
-Updated on 1st dec
-
-2nd test file
